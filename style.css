@@ -1,0 +1,84 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.wrapper{
+    height: auto;
+    width: 100%;
+    background-size: 100% 100%;
+    background-image: url("Cab-Booking-App.jpg");
+}
+span#logo {
+    color: #e3da2d;
+}
+div#line {
+    border-top: 1px solid #dedede;
+    margin-top: 20px;
+}
+.formcontainer {
+    background-color: white;
+    height: auto;
+    border-radius: 7px;
+    margin-bottom: 53px;
+    text-align: center;
+    
+  
+}
+
+span.border {
+    BACKGROUND-COLOR: #e3da2d;
+    border-radius: 19px;
+    display: inline-block;
+    width: 35%;
+    height: 36px;
+    padding-top: 8px;
+    margin-top: 20px;
+    font-weight: bold;
+}
+h2 {
+ 
+    font-size: 17px;
+    font-weight: bold;
+}
+
+input.form-control {
+    background-color: #ebe6e6;
+    border: none;
+}
+.buttonfare {
+    background-color: #e3da2d;
+    border-radius: 6px;
+    margin-bottom: 20px;
+   
+}
+select#inputGroupSelect01 {
+    background: none;
+    background-color: #ebe6e6;
+    border: none;
+    color: #8a8a88;
+}
+select#inputGroupSelect02 {
+    background: none;
+    background-color: #ebe6e6;
+    border: none;
+    color: #8a8a88;
+}
+select#inputGroupSelect03 {
+    background: none;
+    background-color: #ebe6e6;
+    border: none;
+    color: #8a8a88;
+}
+label.input-group-text {
+    background-color: #ebe6e6;
+    border: none;
+    color: #8a8a88; 
+    font-size: 12px;
+    width: 75px;
+}
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none; 
+}
+
+
